@@ -1,6 +1,6 @@
 <div align="center">
 
-# Exercise Physiology: Communicating VO<sub>2</sub> Data Using Markdown  
+# Exercise Physiology: Communicating V̇O<sub>2</sub> Data Using Markdown  
 ### A Structured Documentation Demonstration
 
 </div>
