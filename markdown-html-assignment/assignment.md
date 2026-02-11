@@ -21,3 +21,10 @@ This layout places the image beside the explanation to improve clarity and struc
 </td>
 </tr>
 </table>
+
+</div>
+
+## Supplementary Material
+
+Additional notes can be found here:  
+[View Exercise Physiology Notes](notes/exercise-notes.md)
