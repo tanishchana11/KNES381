@@ -5,7 +5,7 @@
 
 </div>
 
-## Visual Representation of VO<sub>2</sub> Testing
+## Visual Representation of V̇O<sub>2</sub> Testing
 
 <table>
 <tr>
@@ -14,7 +14,7 @@
 </td>
 <td width="55%">
 
-VO<sub>2</sub> max testing measures maximal oxygen consumption during graded exercise.
+V̇O<sub>2</sub> max testing measures maximal oxygen consumption during graded exercise.
 
 This layout places the image beside the explanation to improve clarity and structure.
 
