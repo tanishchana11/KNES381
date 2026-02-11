@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td width="45%">
-<img src="images/unknown.jpeg" width="100%">
+<img src="images/Unknown.jpeg" width="100%">
 </td>
 <td width="55%">
 
